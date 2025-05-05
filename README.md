@@ -1,4 +1,4 @@
-# Kaiting Chang
+# Portfolio
 I am a Data Scientist with experience in building insights through experimentation, product analytics and growth strategy. Currently, I am researching agent AI at UC Berkeley. Graduating in May 2025!
 
 ## [Hunan Agent Communication Research](https://github.com/kkaitch/human-agent_communication)
