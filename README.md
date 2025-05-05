@@ -4,7 +4,7 @@ I am a Data Scientist with experience in building insights through experimentati
 ## [Airbnb Price Prediction](https://github.com/kkaitch/airbnb_price_prediction)
 This project analyzes and predicts the prices of Airbnb in New York City. The goal is to uncover patterns that inform pricing decisions for Airbnb stakeholders - hosts, guests, and the platform. We learned that locations, room types, and neighborhood safety influence the pricing in New York.
 
-## Progresa Evaluation[https://github.com/kkaitch/progresa_evaluation]
+## [Progresa Evaluation](https://github.com/kkaitch/progresa_evaluation)
 This project is to implement some of the econometric techniques to measure the impact of Progresa on secondary school enrollment rates. The program had a causal and statistically significant impact on increasing school enrollment among poor children in Mexico. But it had no measurable impact on non-poor households
 
 ## [Linear Regression](https://github.com/kkaitch/machine_learning_linear_regression)
