@@ -1,5 +1,8 @@
-# Portfolio
+# Kaiting Chang
 I am a Data Scientist with experience in building insights through experimentation, product analytics and growth strategy. Currently, I am researching agent AI at UC Berkeley. Graduating in May 2025!
+
+## [Hunan Agent Communication Research](https://github.com/kkaitch/human-agent_communication)
+This project explores the design requirements for improving human-agent communication. As AI gains more autonomy, new interaction patterns introduce unexplored risks. However, current AI design guidelines mostly focus on non-agentic generative AI.
 
 ## [Airbnb Price Prediction](https://github.com/kkaitch/airbnb_price_prediction)
 This project analyzes and predicts the prices of Airbnb in New York City. The goal is to uncover patterns that inform pricing decisions for Airbnb stakeholders - hosts, guests, and the platform. We learned that locations, room types, and neighborhood safety influence the pricing in New York.
